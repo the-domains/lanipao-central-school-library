@@ -4,15 +4,15 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.4536288
-  brandStrength: 0.2959528
+  brandStrength: 0.5016863
   lightness: 0.4652734
   brandColors:
     - '#FFFFFF'
@@ -21,6 +21,6 @@ color:
     - '#656F38'
     - '#E1A30D'
   rhythmicContrast: 0.07773639
-typography_spectrum: 0.6815004
-layout_spectrum: 0.07806235
+typography_spectrum: 0.1787521
+layout_spectrum: 0.237774
 name: Lanipao Central School Library
